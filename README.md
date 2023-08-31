@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tonmoy</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=HELLO+I'M+TONMOY)](https://git.io/typing-svg)
 <h3 align="center">from Bangladesh</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
